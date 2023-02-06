@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# make sure the build files from cmake don't get checked-in.
+code/build
